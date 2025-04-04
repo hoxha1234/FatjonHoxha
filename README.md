@@ -39,8 +39,8 @@ I love blending creativity and logic to build impactful digital strategies.
 
 ### 📈 GitHub Stats
 
-![Fatjon's GitHub Stats](https://github-readme-stats.vercel.app/api?username=FatjonHoxha&show_icons=true&theme=default&hide=stars&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FatjonHoxha&layout=compact&theme=default)
+![Fatjon's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hoxha1234&show_icons=true&theme=default&hide=stars&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hoxha1234&layout=compact&theme=default)
 
 ---
 
